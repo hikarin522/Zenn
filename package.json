@@ -1,0 +1,18 @@
+{
+  "name": "Zenn",
+  "version": "1.0.0",
+  "description": "Zenn Contents",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hikarin522/Zenn.git"
+  },
+  "author": "hikarin522",
+  "license": "CC BY-NC 4.0",
+  "bugs": {
+    "url": "https://github.com/hikarin522/Zenn/issues"
+  },
+  "homepage": "https://zenn.dev/hikarin",
+  "dependencies": {
+    "zenn-cli": "^0.1.35"
+  }
+}
