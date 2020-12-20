@@ -13,6 +13,6 @@
   },
   "homepage": "https://zenn.dev/hikarin",
   "dependencies": {
-    "zenn-cli": "^0.1.35"
+    "zenn-cli": "^0.1.63"
   }
 }
